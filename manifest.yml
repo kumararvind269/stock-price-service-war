@@ -1,5 +1,5 @@
 applications:
-- name: stock-service-3
+- name: stock-service-3-war
 path: target/Spring4MVCHelloWorldRestServiceDemo.war
 domain: cfapps.io
 memory: 700M
