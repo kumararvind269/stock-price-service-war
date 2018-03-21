@@ -1,8 +1,9 @@
 spring:
  application:
-  name: stock-price-service
+  name: stock-price-service_war3
 server:
- port: 8000
+ contextPath: /war
+ port:8000
 
  datasource:
   url: jdbc:h2:mem:testdb

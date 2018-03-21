@@ -1,6 +1,6 @@
 applications:
-- name: stock-service-3
-path: target/stock-price-service-0.0.1-SNAPSHOT.jar
+- name: stock-service-war-3
+path: target/stock-price-service-war-0.0.1-SNAPSHOT.war
 domain: cfapps.io
-memory: 1024M
+memory: 750M
 instances: 1
